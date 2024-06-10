@@ -1,0 +1,20 @@
+
+Œ	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£û¼ìJ$15679e27-159d-4dac-aa5b-e2617b049221
+‘	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì˜ÅİøÿÿÿÿJ$bd003a1d-45b8-412c-9c07-320afdccd3ec
+‡	java:S116
+"LRename this field "R" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄüıÙJ$528327e8-9cc7-48e9-9715-938b71ad4a1d
+ˆ	java:S116
+"MRename this field "R0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄüıÙJ$6c5e4b1f-8ef3-4ca5-a591-8549512bf58d
+\
+java:S1659
+" Declare "R0" on a separate line.(ÄüıÙJ$cf86f438-4f2d-4cb7-bbd2-190aabe30ab0
+}
+java:S1161<":Add the "@Override" annotation above this method signature(£û¼ì8ğø–Œ€2J$5dcd2711-f6a8-45a4-8af6-1ea295ec7dae
+‚
+java:S1161A":Add the "@Override" annotation above this method signature(ì˜Åİøÿÿÿÿ8ğø–Œ€2J$bf013894-7680-4289-a603-9e30e93ca487
+p
+java:S1185G"(Remove this method to simply inherit it.(Ë‡¡¢ıÿÿÿÿ8òø–Œ€2J$44adeef0-f1ff-40c7-a4d8-d062cb9b537c
+‚
+java:S1161G":Add the "@Override" annotation above this method signature(Ë‡¡¢ıÿÿÿÿ8òø–Œ€2J$38d3b2ec-3338-4672-aaf0-f7485e664128
+}
+java:S1161K":Add the "@Override" annotation above this method signature(Á»›ê8òø–Œ€2J$bae76826-90fa-41bd-a7ad-8b7287772368

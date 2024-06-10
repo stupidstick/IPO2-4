@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/client/src/main/java/ru/stupidstick/client/Client.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/src/main/java/ru/stupidstick/visual/Circle.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/client/src/main/java/ru/stupidstick/visual/GrObject.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/client/src/main/java/ru/stupidstick/visual/GrObjectFactory.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/client/src/main/java/ru/stupidstick/visual/MainWindow.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/client/src/main/java/ru/stupidstick/visual/MyString.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/client/src/main/java/ru/stupidstick/visual/Zwezda.java" charset="windows-1251" />
+  </component>
+</project>

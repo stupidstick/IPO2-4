@@ -1,0 +1,37 @@
+
+‘	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Õø©ıÿÿÿÿJ$6ed1fdd9-2e05-4346-afdd-dbc89cc61bb7
+Œ	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡àƒâJ$f05e0054-206d-4c1d-bf35-7a01b4c5b4ef
+	java:S116"MRename this field "V0" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú‹˜¹úÿÿÿÿJ$c2ad17ad-cf81-43c1-a678-3b7012919e9c
+
+java:S1659">Declare "y" and all following declarations on a separate line.(ˆ‹ŒşÿÿÿÿJ$c3cd0d4d-8b75-428b-be2e-4dd6e3cda2af
+c
+java:S1659""Declare "maxy" on a separate line.(ŸƒË¤ıÿÿÿÿJ$c23e7d05-c5d9-4eaa-b1b7-ab5a7f5fed87
+u
+java:S5993"9Change the visibility of this constructor to "protected".(ª•¶¤J$d6bd4625-0645-4d81-b930-2208b4f635d5
+z
+java:S5993)"9Change the visibility of this constructor to "protected".(¿›¨›úÿÿÿÿJ$b73f1ba9-6c50-4621-9bde-1f35cdbd537d
+e
+java:S2140")Use "java.util.Random.nextInt()" instead.(»×ç¿J$bda6f485-c83a-4bcd-9ef5-48b6d5cab73f
+e
+java:S2140")Use "java.util.Random.nextInt()" instead.(»×ç¿J$97c5b744-1796-4f2a-94d4-172a17ae3a14
+e
+java:S2140")Use "java.util.Random.nextInt()" instead.(»×ç¿J$c3896f95-dfc3-4afd-bca9-2669655cc2e2
+†
+java:S1124!"EReorder the modifiers to comply with the Java Language Specification.(œ›‰­üÿÿÿÿJ$4f3faa26-4210-4cdc-85e3-f5f33364ea03
+x
+java:S1172#"7Remove these unused method parameters "r0", "n0", "s0".(çé‘¢şÿÿÿÿJ$b5910987-ef16-4def-a4e1-4e640485c22c
+e
+java:S21404")Use "java.util.Random.nextInt()" instead.(»×ç¿J$3274490f-8664-4c14-881d-242ae0ee6d01
+e
+java:S21404")Use "java.util.Random.nextInt()" instead.(»×ç¿J$7db569d4-1e4c-4dcb-a966-994ffa4b78d2
+e
+java:S21404")Use "java.util.Random.nextInt()" instead.(»×ç¿J$789cd08b-c036-49a0-922a-a215d237aeeb
+	java:S100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Õø©ıÿÿÿÿJ$e232410d-af6b-4c26-a635-531ef78f6c6b
+‰	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡àƒâJ$ad4f6f22-4285-46c9-8ab1-31aabfea9f1c
+Ÿ
+java:S2142o"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿJ$46ea24f3-80e4-485a-a6d6-0039c6ea3a78
+i	java:S108o")Either remove or fill this block of code.(è®ã¶øÿÿÿÿJ$058008b1-b8e1-4cc3-ac4d-3c0d8ff7fdbc
+v
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8é­Œ€2J$7ae6ea25-d994-4a88-a988-927e71c3dd59
+u
+java:S1128"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/8é­Œ€2J$abeb0529-b0ef-42ec-8596-d5ee3d359888

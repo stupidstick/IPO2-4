@@ -1,0 +1,26 @@
+
+Œ	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£û¼ìJ$cbd420e7-5e94-49dd-9cbd-c8abc2e21f60
+‘	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì˜ÅÝøÿÿÿÿJ$847a54b1-bedc-4184-b6ec-dd56e1f26383
+†	java:S116"LRename this field "R" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶«ëJ$4a09ad83-a4cc-4345-88fe-6ff4d984068d
+‡	java:S116"MRename this field "FI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶«ëJ$2169df8a-f23e-4d2e-bc6c-794296952647
+Œ	java:S116"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¢ÓÛüÿÿÿÿJ$4a987eed-29a3-48a7-b19e-7f550945d62c
+‰	java:S116"NRename this field "V00" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«à´¾J$ac1b24eb-f1df-476e-b03d-dd5a41ca3caf
+Ž	java:S116"NRename this field "PI2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ê½çûÿÿÿÿJ$2af2ea40-44d0-4f33-abe0-9311339b3d10
+z
+java:S1659"?Declare "FI" and all following declarations on a separate line.(¶«ëJ$0d61b23c-1a1b-405b-b825-d0dda91608ed
+[
+java:S1659" Declare "yy" on a separate line.(—ðßYJ$041d3880-5239-48f9-9d05-164e875958dc
+e
+java:S1197"*Move the array designators [] to the type.(—ðßYJ$51fef049-88e7-4d7f-86ff-3dedc71b564b
+e
+java:S1197"*Move the array designators [] to the type.(—ðßYJ$a9e78db3-377d-414b-8e8f-aad73171164f
+}
+java:S11617":Add the "@Override" annotation above this method signature(£û¼ì8ì÷§…€2J$420c336e-d526-4874-8e9b-b2fa024afb5d
+‚
+java:S1161O":Add the "@Override" annotation above this method signature(ì˜ÅÝøÿÿÿÿ8î÷§…€2J$c66ce9c1-1c2c-49c3-a1a0-40528215598e
+‚
+java:S1161Y":Add the "@Override" annotation above this method signature(Ë‡¡¢ýÿÿÿÿ8ñ÷§…€2J$069aacc7-d4c1-4055-a0b3-3815bf7b4578
+v
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8Ú¬ŸŒ€2J$2e2eef44-81bf-4535-b37e-e84d36eab776
+u
+java:S1128	"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/8Ú¬ŸŒ€2J$bb601413-c02d-4efd-aaa4-380ab67f073f

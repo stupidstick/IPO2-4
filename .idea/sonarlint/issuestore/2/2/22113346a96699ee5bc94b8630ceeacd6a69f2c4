@@ -1,0 +1,33 @@
+
+
+java:S1192ˆ"YDefine a constant instead of duplicating this literal "Username cannot be blank" 3 times.(“ééß8§ü»‰€2J$0bce5b4f-ce44-40b6-aa9d-dff19f1fff73
+	java:S116"NRename this field "OBJ" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×–Û8¾ü»‰€2J$1ac4597b-059f-4354-b699-9ce6fedde817
+	java:S116ô"MRename this field "TT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï®ÃÚ8¾ü»‰€2J$b5b83b56-8b28-4f2e-ab8d-88673b497a74
+‘	java:S116õ"NRename this field "TXT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ñ¢Ê8¾ü»‰€2J$2922d4a1-eaf1-41f1-99f7-403361baaf01
+—	java:S116ù"ORename this field "TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰õ²ªûÿÿÿÿ8¾ü»‰€2J$7c6bb894-845c-4250-b4c6-d41d8327bfa4
+¤
+java:S1450ú"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿ8Ãü»‰€2J$dc65acb6-b141-4150-8e48-dc12713f7411
+©
+java:S1450ñ"`Remove the "serverClearButton" field and declare it as a local variable in the relevant methods.(¼œ°±úÿÿÿÿ8Ãü»‰€2J$d0a23c34-2964-4a33-b5de-0c6d51d92016
+§
+java:S1450ò"^Remove the "serverGetButton" field and declare it as a local variable in the relevant methods.(Ó±Àÿÿÿÿÿ8Ãü»‰€2J$c996785b-3605-4c33-bbb0-172bb1a67297
+£
+java:S1450ğ"ZRemove the "serverLabel" field and declare it as a local variable in the relevant methods.(’Ÿõåúÿÿÿÿ8Ãü»‰€2J$017467ce-036f-4851-9461-4267b734e215
+¥
+java:S1450÷"\Remove the "usernameLabel" field and declare it as a local variable in the relevant methods.(½”•®ÿÿÿÿÿ8Ãü»‰€2J$786e6867-0f17-4ddb-a84f-9f1870eac23c
+q
+java:S1948")Make "factory" transient or serializable.(Ì‹‚¾üÿÿÿÿ8Äü»‰€2J$7169d29b-65ff-4b8b-884c-5617524c4dce
+k
+java:S1948"(Make "client" transient or serializable.(Ö¼İß8Äü»‰€2J$9ec410b5-2698-46c6-8882-769b2b754bb3
+}
+java:S1161N":Add the "@Override" annotation above this method signature(†ŒË³8Ğü»‰€2J$4811b412-7a88-40ff-8ba0-d17ad61c0731
+	java:S100`"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ˆÁ8Òü»‰€2J$e6db2b5d-8e8f-4f81-9999-1ddf9571ad3c
+c	java:S131d""Add a default case to this switch.(À¨Î8Õü»‰€2J$cf8d81ff-006a-4912-9fa6-ba2d3ec48164
+s	java:S106 "+Replace this use of System.out by a logger.(”ôÙŸúÿÿÿÿ8Ö×‰€2J$0ec0db33-d974-43b9-85ff-9ca8b5585e0b
+|
+java:S1874¦"3Remove this use of "newInstance"; it is deprecated.(¡Ï½‰øÿÿÿÿ8ãü»‰€2J$5c962876-59d3-4a23-94c7-3b7fd0329f73
+n
+java:S1181æ"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ8êü»‰€2J$da582083-9aef-4878-a51f-8cef18e71a8c
+q	java:S108æ")Either remove or fill this block of code.(À˜§üÿÿÿÿ8ìü»‰€2J$109cc51d-dad3-4286-ad1f-4714800b39d1
+s
+java:S1197ê"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8íü»‰€2J$d68e9caa-65b1-4997-ada6-af952f46d81e
